@@ -12,3 +12,9 @@ data.
 - Milestone 2 – Similarity Search: Use high-dimensional similarity search to identify
 customers with comparable behavior, enabling collaborative trends and tailored
 suggestions
+- Milestone 4 – Large-Scale Hypothesis Testing: Conduct large-scale A/B testing to assess
+the impact of promotional strategies or UI changes on purchasing behavior, using scalable
+p-value corrections.
+- Milestone 5 – Recommendation Systems: Build a hybrid recommender system that
+combines collaborative filtering with content-based techniques to deliver relevant and
+personalized product recommendations.
